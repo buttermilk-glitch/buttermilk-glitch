@@ -1,6 +1,5 @@
-<div align="center">
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C8A1BA67&width=435&lines=HELLO+THERE!" alt="Typing SVG" /></a> 
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=buttermilk-glitch&theme=radical&hide_border=true&background=00000000&ring=F7A8B8&fire=F7A8B8&currStreakLabel=F7A8B8" width="48%" />
